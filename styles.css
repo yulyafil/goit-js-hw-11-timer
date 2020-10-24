@@ -34,9 +34,9 @@ body {
   width: 250px;
 }
 .message {
-  padding-top: 250px;
-  padding-bottom: 20px;
-  margin: 0;
+  margin-top: 250px;
+  /* padding-bottom: 40px;
+  margin: 0; */
 }
 .copyrigth {
   padding: 10px;
